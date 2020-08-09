@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+
+  padding: 80px;
+
+  background: lightseagreen
+}
+
+.player {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  width: 50px;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+}
